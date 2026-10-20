@@ -5,7 +5,7 @@ Notebooks Jupyter pour apprendre à manipuler des tableaux de tableaux en Python
 ## Contenu
 
 ```
-01_Matrices_Cours.ipynb          cours : m[i][j], parcours, construction, le piège [[0] * 3] * 3, copie
+01_Matrices_Cours.ipynb          cours : m[i][j], parcours, construction avec des boucles, copie
 02_Matrices_Exercices.ipynb      16 exercices à faire soi-même, avec des tests pour s'autocorriger
 03_Matrices_Resolutions.ipynb    résolutions : ÉNONCÉ / RÉSOLUTION / EXPLICATION PÉDAGOGIQUE
 ```
